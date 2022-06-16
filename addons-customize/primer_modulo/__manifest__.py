@@ -7,5 +7,9 @@
     'category':'General',
     'version':'1.0.0',
     'depends':[],
-    'data':[],
+    'data':[
+        'views/menu_view.xml',
+        'security/libreria_security.xml',
+        'security/ir.model.access.csv'
+        ],
 }
